@@ -1,0 +1,31 @@
+    1  npm install
+    2  grunt dev
+    3  npm grunt install
+    4  grunt install
+    5  npm install grunt --save-dev
+    6  npm install 
+    7  npm install
+    8  npm install -g graphcool
+    9  graphcool deployed
+   10  npm install -g prisma
+   11  prisma login -k eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjamhqc3Rhcjc5MzJyMGE5MmZlc2hyNndvIiwiaWF0IjoxNTI3MTIxNjcyLCJleHAiOjE1Mjk3MTM2NzJ9.1OHdNxZd-1mrQnU4AKqPlwmmgJ7XDZgpOC_eIBqIpaM
+   12  graphcool -newsapi
+   13  graphchool deploy
+   14  graphcool deploy
+   15  graphcool -init
+   16  ghraphcool -init newsapi
+   17  graphcool init newsapi
+   18  cd newsapi
+   19  graphcool deploy
+   20  graphcool playground
+   21  clear
+   22  graphcool add-template graphcool/templates/auth/email-password
+   23  .bash_history
+   24  ~/.bash_history
+   25  graphcool deploy
+   26  graphcool deploy --force
+   27  graphcool deploy
+   28  graphcool deploy --force
+   29  history n
+   30  history
+   31  history >>myHistory.text
